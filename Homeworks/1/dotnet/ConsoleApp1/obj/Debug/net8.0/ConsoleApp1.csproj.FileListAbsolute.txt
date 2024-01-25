@@ -1,0 +1,5 @@
+c:\Users\3li3b\OneDrive\Documents\LEARNING\Learning_2024\SDL\Homeworks\1\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+c:\Users\3li3b\OneDrive\Documents\LEARNING\Learning_2024\SDL\Homeworks\1\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\3li3b\OneDrive\Documents\LEARNING\Learning_2024\SDL\Homeworks\1\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\3li3b\OneDrive\Documents\LEARNING\Learning_2024\SDL\Homeworks\1\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+c:\Users\3li3b\OneDrive\Documents\LEARNING\Learning_2024\SDL\Homeworks\1\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache

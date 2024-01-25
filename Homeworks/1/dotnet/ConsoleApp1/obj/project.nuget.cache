@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H+MeD+olaDpJrPfdJWFOSrmh5cnP6jxHYrlufcMunJMumWTnKypwlEFzp3eE2JPnuYw79H41yLHSpbl7bDpj1g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\3li3b\\OneDrive\\Documents\\LEARNING\\Learning_2024\\SDL\\Homeworks\\1\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3li3b\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\3li3b\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\3li3b\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
