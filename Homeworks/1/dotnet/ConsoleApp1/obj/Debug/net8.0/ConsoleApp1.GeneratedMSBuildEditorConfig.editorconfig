@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleApp1
-build_property.ProjectDir = c:\Users\3li3b\OneDrive\Documents\LEARNING\Learning_2024\SDL\Homeworks\1\dotnet\ConsoleApp1\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = /workspaces/SDL_2024/Homeworks/1/dotnet/ConsoleApp1/

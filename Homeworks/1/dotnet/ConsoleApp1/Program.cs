@@ -5,6 +5,15 @@ Console.WriteLine("Hello, World!");
 
 using Npgsql;
 
+Console.Writeline("User is ?");
+var userName = Console.Readline();
+
+Console.Writeline("Password is ?");
+var password = Console.Readline();
+
+Console.WriteLine($"User is {userName}");
+Console.Writeline($"Password is {password}");
+
 var connectionString = "Host=localhost;Username=Ali;Password=190668;Database=sdl_ali";
 
 await using var dataSource = NpgsqlDataSource.Create(connectionString);
