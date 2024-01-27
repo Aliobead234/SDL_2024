@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H+MeD+olaDpJrPfdJWFOSrmh5cnP6jxHYrlufcMunJMumWTnKypwlEFzp3eE2JPnuYw79H41yLHSpbl7bDpj1g==",
+  "dgSpecHash": "TtYnA1EcPoxpZn3SIwJyoSGUjV1HgMC5AvFFlU0ysQtUBK++aVn7BF3W6ldspR4K+6OoD73F4zIDGRgCnxNo+A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\3li3b\\OneDrive\\Documents\\LEARNING\\Learning_2024\\SDL\\Homeworks\\1\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\3li3b\\OneDrive\\Documents\\GitHub\\SDL_2024\\Homeworks\\1\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3li3b\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\3li3b\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",

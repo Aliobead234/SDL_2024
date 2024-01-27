@@ -197,11 +197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3li3b\\OneDrive\\Documents\\LEARNING\\Learning_2024\\SDL\\Homeworks\\1\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "c:\\Users\\3li3b\\OneDrive\\Documents\\GitHub\\SDL_2024\\Homeworks\\1\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\3li3b\\OneDrive\\Documents\\LEARNING\\Learning_2024\\SDL\\Homeworks\\1\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "c:\\Users\\3li3b\\OneDrive\\Documents\\GitHub\\SDL_2024\\Homeworks\\1\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\3li3b\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3li3b\\OneDrive\\Documents\\LEARNING\\Learning_2024\\SDL\\Homeworks\\1\\dotnet\\ConsoleApp1\\obj\\",
+      "outputPath": "c:\\Users\\3li3b\\OneDrive\\Documents\\GitHub\\SDL_2024\\Homeworks\\1\\dotnet\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

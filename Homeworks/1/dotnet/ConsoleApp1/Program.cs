@@ -3,20 +3,28 @@ using Npgsql;
 
 Console.WriteLine("Hello, World!");
 
-using Npgsql;
+Console.WriteLine("User is ?");
+var userName = Console.ReadLine();
 
-Console.Writeline("User is ?");
-var userName = Console.Readline();
-
-Console.Writeline("Password is ?");
-var password = Console.Readline();
+Console.WriteLine("Password is ?");
+var password = Console.ReadLine();
 
 Console.WriteLine($"User is {userName}");
-Console.Writeline($"Password is {password}");
+Console.WriteLine($"Password is {password}");
 
-var connectionString = "Host=localhost;Username=Ali;Password=190668;Database=sdl_ali";
+/* Here using a connectionString
+var connectionString = $"Host=localhost;Database=sdl_ali;Username={userName};password={password}";*/
 
-await using var dataSource = NpgsqlDataSource.Create(connectionString);
+// there is model that is named NpgConnectionStringBuilder
+var NpgConnectionStringBuilder = new NpgsqlConnectionStringBuilder
+{
+    Host="localhost",
+    Database="sdl_ali",
+    Username=userName,
+    Password=password
+};
+
+await using var dataSource = NpgsqlDataSource.Create(NpgConnectionStringBuilder);
 
 // Retrieve all rows
 await using (var cmd = dataSource.CreateCommand("SELECT VERSION();"))
